@@ -1,0 +1,2 @@
+Welcome to Alpha.txt
+Edited from GNU nano
